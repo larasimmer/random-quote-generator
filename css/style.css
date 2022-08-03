@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.container {
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.lyrics {
+    font-size: 1.5rem;
+    font-family: 'Eczar', serif;
+}
+
+#btn {
+    font-size: 20px;
+    margin-top: 15px;
+    padding: 8px 13px 8px 13px;
+    border-radius: 5px;
+    cursor: pointer;
+}
