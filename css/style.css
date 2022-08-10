@@ -25,12 +25,24 @@ body {
 .information {
     font-size: 1.4rem;
     margin: 1rem;
+    font-family: 'Poppins', sans-serif;
 }
 
 #btn {
     font-size: 20px;
     margin-top: 15px;
+    margin-left: 225px;
     padding: 8px 13px 8px 13px;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.fa-quote-left {
+    margin-left: -30px;
+    font-size: 30px;
+}
+
+.fa-quote-right {
+    margin-left: 725px;
+    font-size: 30px;
 }
